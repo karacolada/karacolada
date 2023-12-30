@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 My name is Kara, I'm a software engineer based in Edinburgh, Scotland. I love building tools and optimising code and documentation for reusability.
 - 🔭 I’m currently working at EPCC, University of Edinburgh, as an Applications Consultant. I usually work on multiple projects at the same time, both with academics and partners from industry. I try to keep my LinkedIn page updated about those! I'm also involved in teaching for our MSc programme "Data Science in HPC".
 - 🌱 I’m currently learning more about advanced topics of data statistics, Safe Havens, and reporting the performance of machine learning models.
-- 💬 Ask me about Python, neural networks, reinforcement learning, time management, and data science. Or anything else you are wondering about - I might not know the answer, but I'll happily go down a rabbit hole and discuss my findings!
+- 💬 Ask me about Python, neural networks, reinforcement learning, time management, software reusability and data science. Or anything else you are wondering about - I might not know the answer, but I'll happily go down a rabbit hole and discuss my findings!
+- ✨ I'm interested in all things astronomy, climate change, meteorology, history and robotics.
 - ⚡ I used to develop small applications with friends while I was at uni, for example [a Telegram bot for organising boardgame nights](https://github.com/soxidus/Boardgame-Bot) and a [web application](https://gitlab.com/karacol/terraforming-tracker) tracking game stats for my favourite boardgame, Terraforming Mars! Since I started coding full-time though, I prefer to stay off my computer outside of work.
 - 🌲 I spend my free time hiking, playing boardgames, gardening, playing the cello and watching Doctor Who!
 - 😄 Pronouns: she/her
